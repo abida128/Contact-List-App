@@ -17,7 +17,7 @@
  - VS Code (as Editor)
  - Browser (as runtime environment)
  - npm 
- - React-JavaScript 
+ - React.JavaScript 
 
 # How to run this app?
 - To run this app, npm start
@@ -26,5 +26,8 @@
 
 # Repo Link:
     https://github.com/abida128/Contact-List-App.git
+    
+ # Live link:
+    https://abida128.github.io/Contact-List-App/
 
 

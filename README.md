@@ -26,8 +26,8 @@
 
 # Repo Link:
 
-      https://github.com/abida128/Contact-List-App.git
+   https://github.com/abida128/Contact-List-App.git
     
  # Live link:
  
-     https://abida128.github.io/Contact-List-App/
+   https://abida128.github.io/Contact-List-App/
